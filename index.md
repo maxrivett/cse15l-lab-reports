@@ -2,7 +2,7 @@
 **Hello, bold world!**<br>
 # Title<br>
 ## Subtitle<br>
-[Lab 1](https://maxrivett.github.io/cse15l-lab-reports/lab-1)<br>
+[Lab 1](https://maxrivett.github.io/cse15l-lab-reports/lab-report-1-week-2)<br>
 My code before I learned some markdown tricks
 ![Image](labss.png)<br>
 > "Random quote."<br>
