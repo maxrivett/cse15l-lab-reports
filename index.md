@@ -1,1 +1,21 @@
-<i>Hello, italicized world!</i>
+*Hello, italicized world!*<br>
+**Hello, bold world!**<br>
+# Title<br>
+## Subtitle<br>
+[Lab 1](https://maxrivett.github.io/cse15l-lab-reports/lab-1)<br>
+My code before I learned some markdown tricks
+![Image](labss.png)<br>
+> "Random quote."<br>
+* List<br>
+* Of<br>
+* Stuff<br>
+1. An
+2. Ordered
+3. List<br>
+
+---
+`Inline code!`
+```
+My code block.
+Very cool stuff.
+```
