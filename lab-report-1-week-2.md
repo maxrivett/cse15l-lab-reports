@@ -1,6 +1,6 @@
 # Lab Report 1, Week 2
 
-*Below is a tutorialon how to set up a remote connection.*<br>
+*Below is a tutorial on how to set up a remote connection.*<br>
 <br>
 1. Installing VSCode
 <br><br>![Image](images/pic1.png)
@@ -22,4 +22,6 @@ To download Visual Studio Code (VSCode), you’re going to want to head to https
 6. Optimizing Remote Running
 <br><br>
 There are many things that can be done to make remote running more efficient. An example of this is including the command in the same line as you SSH into a remote computer, like this: `ssh cs15lwi22___@ieng6.ucsd.edu “cd randomFolder”`. My personal favourite shortcut however is executing two commands in one line using semi-colons, like this: 
-<br>![Image](images/pic6.png)<br><br>
+<br>![Image](images/pic6.png)<br>
+So, the most pleasant process of making a local change to a file and then copying it to and running it on a remote server would be this: <br>![Image](images/pic7.png)<br>
+This method not only reduces keystrokes, but greatly decreases the number of command lines you have to input which makes it more legible.
