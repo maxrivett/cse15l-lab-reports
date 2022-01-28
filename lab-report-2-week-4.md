@@ -11,7 +11,7 @@ For each code change, I will...
 <br>
 -------------------------------
 <br><br>
-1.**BUG 1**
+1. **BUG 1**
 <br>Here is a screenshot of the code change diff from Github:
 ![Test 1 Commit](images/labreport2/test1commit.png)
 <br>[Test File for Break 1](lab-report-2-files/test-break-1.md)
