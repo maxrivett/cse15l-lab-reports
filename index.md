@@ -4,6 +4,7 @@
 ## Subtitle<br>
 [Lab 1](https://maxrivett.github.io/cse15l-lab-reports/lab-report-1-week-2)<br><br>
 [Lab 2](https://maxrivett.github.io/cse15l-lab-reports/lab-report-2-week-4)<br><br>
+[Lab 3](https://maxrivett.github.io/cse15l-lab-reports/lab-report-3-week-6)<br><br>
 My code before I learned some markdown tricks
 ![Image](labss.png)<br>
 > "Random quote."<br>
