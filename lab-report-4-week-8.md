@@ -3,6 +3,11 @@
 *In this lab, I will be remotely testing my markdown-parse and the markdown-parse that I reviewd in lab on Wednesday (the CSE 15L version). I will be writing three tests for each, testing three snippets that were given to me as part of this report, and then analyzing how the programs did.*
 
 I started by **cloning my and the course staff's versions of markdown-parse** into my ieng6 remote server.
+<br>
+Links to each:<br>
+[My markdown-parse](https://github.com/maxrivett/markdown-parse)<br>
+[Course staff's markdown-parse](https://github.com/ucsd-cse15l-w22/markdown-parse)
+<br>
 ![cloning](/images/labreport4/pic1.png)
 <br><br>
 
