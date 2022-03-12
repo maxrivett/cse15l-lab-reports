@@ -21,7 +21,7 @@ I found that line 98 corresponded with test file `142.md` and 100 with `143.md`
 <br>
 As you can see above, my implementation says that the is a link "x" in both of the files, whereas the course staff's implementation does not show a link.
 <br>
-Here is the code for the two files:
+Here is the code for the two files:<br>
 ![file1](images/labreport5/pic6.png)
 ![file2](images/labreport5/pic7.png)
 <br>
