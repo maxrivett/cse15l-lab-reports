@@ -8,7 +8,7 @@ Links to each:<br>
 [My markdown-parse](https://github.com/maxrivett/markdown-parse)<br>
 [Other groups's markdown-parse](https://github.com/yi113/markdown-parse.git)
 <br>
-![cloning](/images/labreport4/pic1.png)
+![cloning](/images/labreport4/pic14.png)
 ![cloning](/images/labreport4/pic10.png)
 <br><br>
 
